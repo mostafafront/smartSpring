@@ -1,0 +1,14 @@
+:root{
+    --bg-primary : #7333FF;
+    --bg-dark : #08001B;
+    --color-primary-light : #CEB8FF;
+    --color-warning-light : #FFCFB5;
+}
+
+.bg-dark_main {
+    background-color: var(--bg-dark);
+}
+
+.bg-primary_main {
+    background-color: var(--bg-dark);
+}
